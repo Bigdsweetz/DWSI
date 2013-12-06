@@ -1,0 +1,35 @@
+html {
+  font: 75% Times New Roman, sans-serif;
+}
+/*The my color combo's*/
+body
+{
+color:Black;
+background-color:SeaGreen;
+}
+ol
+{
+color: hsla(39, 97%, 44%, 1.0);
+background-color: hsla(45, 50%, 28%, 1.0);
+}
+
+h1
+{
+color:#DB9103;
+background-color:#6B5924;
+}
+h2
+{
+color: hsl(39, 97%, 44%);
+background-color: hsl(45, 50%, 28%);
+}
+p
+{
+color: rgba(219, 145, 3, 1.0);
+background-color: rgba(107, 89, 36, 1.0);
+}
+ul
+{
+color: rgb(219, 145, 3);
+background-color: rgb(107, 89, 36);
+} 
