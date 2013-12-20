@@ -14,7 +14,7 @@ body {
 	width: 98%;
 	min-width: 600px;
 	/*background-color:skyblue; */
-	background:hsla(26, 100%, 40%, 1.0) url(../mages/renzler-power-down.gif) repeat center center;
+	background:hsla(26, 100%, 40%, 1.0) url(../images/renzler-power-down.gif) repeat center center;
 	border: .2em solid #fff;
 	border-radius: 2em;
 	box-shadow: 10px 10px 5px #888888;
